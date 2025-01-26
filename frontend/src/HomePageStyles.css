@@ -276,6 +276,8 @@ footer {
     }
   #search-bar input[type="text"] {
     width:75%;
+    font-size:17px;
+    padding-left:10px;
   }
   #search-bar input[type="submit"] {
     width:25%;
