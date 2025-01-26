@@ -267,8 +267,8 @@ footer {
   }
   #container #logo 
   {
-    width:25%;
-    height: 70%;
+    width:20%;
+    height: 60%;
   }
     #container #search-bar 
     {
@@ -279,7 +279,7 @@ footer {
   }
   #search-bar input[type="submit"] {
     width:25%;
-    font-size:12px;
+    font-size:13px;
     padding:2px;
   }
   #box #details h2,#box #details h3
