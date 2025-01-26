@@ -276,8 +276,10 @@ footer {
     }
   #search-bar input[type="text"] {
     width:70%;
-    background-color: blue;
     color:white;
+  }
+  #search-bar input[type="submit"] {
+    padding:12 10px;
   }
   #box #details h2,#box #details h3
   {
