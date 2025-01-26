@@ -63,7 +63,7 @@ function OrderPage()
                   <h2>&#8377;{item.item_price}</h2>
               </div>
               <div className="line" id="line2">
-                   <h2>Product Quantity</h2>
+                   <h2>Quantity</h2>
                    <div className="line" id="in-line">
                        <button id="decrease" onClick={()=>
                        {
