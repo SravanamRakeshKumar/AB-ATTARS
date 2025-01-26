@@ -8,8 +8,8 @@
     ],
     "routes": [
       {
-        "src": "/api/(.*)",
-        "dest": "/sms.js"
+        "src": "/(.*)",
+        "dest": "./sms.js"
       }
     ]
   }
