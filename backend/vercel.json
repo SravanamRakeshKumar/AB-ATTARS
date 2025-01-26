@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
       {
-        "src": "./sms.js",
+        "src": "sms.js",
         "use": "@vercel/node"
       }
     ],
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "./sms.js"
+        "dest": "/sms.js"
       }
     ]
   }
