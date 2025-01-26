@@ -9,6 +9,7 @@ body {
 /* Container */
 #container {
   position:relative;
+  position:fixed;
   /* padding: 30px 0px 30px 0px; */
   /* max-width: 1200px; */
   width:100%;
