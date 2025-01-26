@@ -146,10 +146,6 @@ h1
         margin-top: 20px;
        height: 500px;
     }
-    #main #product-details #line2 h2,#main #product-details #line3 h2
-    {
-        font-size:2vh;
-    }
     #main #product-details  button#order
     {
         font-size: 3vh;
