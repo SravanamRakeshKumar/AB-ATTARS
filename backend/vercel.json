@@ -8,13 +8,8 @@
     ],
     "routes": [
       {
-<<<<<<< HEAD
-        "src": "/api/(.*)",
-        "dest": "./sms.js"
-=======
         "src": "/(.*)",
         "dest": "/sms.js"
->>>>>>> 93d9b2ce0c3663bbceb87c89f6084e7a7da9d76b
       }
     ]
   }
