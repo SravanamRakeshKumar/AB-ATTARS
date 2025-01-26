@@ -275,12 +275,10 @@ footer {
       width:70%;
     }
   #search-bar input[type="text"] {
-    width:80%;
+    width:100%;
   }
   #search-bar input[type="submit"] {
-    position:relative;
-    width:20%;
-    background-color:blue;
+    display:none;
   }
   #box #details h2,#box #details h3
   {
