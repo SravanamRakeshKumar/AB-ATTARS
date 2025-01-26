@@ -268,17 +268,18 @@ footer {
   #container #logo 
   {
     width:20%;
-    height: 80%;
+    height: 50%;
   }
     #container #search-bar 
     {
       width:70%;
     }
   #search-bar input[type="text"] {
-    width:100%;
+    width:75%;
   }
   #search-bar input[type="submit"] {
-    display:none;
+    width:25%;
+    padding:5px 10px;
   }
   #box #details h2,#box #details h3
   {
