@@ -276,6 +276,8 @@ footer {
     }
   #search-bar input[type="text"] {
     width:70%;
+    background-color: blue;
+    color:white;
   }
   #box #details h2,#box #details h3
   {
