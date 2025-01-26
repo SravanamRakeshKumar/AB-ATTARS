@@ -278,7 +278,9 @@ footer {
     width:80%;
   }
   #search-bar input[type="submit"] {
-    padding:12 10px;
+    position:relative;
+    width:20%;
+    background-color:blue;
   }
   #box #details h2,#box #details h3
   {
