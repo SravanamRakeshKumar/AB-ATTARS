@@ -265,6 +265,10 @@ footer {
     width:80%;
     height: 400px;
   }
+  #container 
+  {
+    height:80px;
+  }
   #container #logo 
   {
     width:20%;
@@ -272,7 +276,7 @@ footer {
   }
     #container #search-bar 
     {
-      width:70%;
+      width:75%;
     }
   #search-bar input[type="text"] {
     width:75%;
@@ -281,7 +285,7 @@ footer {
   }
   #search-bar input[type="submit"] {
     width:25%;
-    font-size:13px;
+    font-size:14px;
     padding:2px;
   }
   #box #details h2,#box #details h3
