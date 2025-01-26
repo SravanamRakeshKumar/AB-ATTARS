@@ -60,7 +60,6 @@ h1
 {
     position:relative;
     width:90%;
-    font-weight: lighter;
 }
 #main #product-details
 {
@@ -128,7 +127,7 @@ h1
     {
         font-size: 5vh;
     }
-    #main form input {
+    #main form input,#main form input:nth-child(1),#main form input:nth-child(2){
         width:80%;
         font-size: 2vh;
     }
